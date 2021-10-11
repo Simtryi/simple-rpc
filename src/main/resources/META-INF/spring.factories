@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.simple.simplerpc.provider.ProviderConfiguration,\
+com.simple.simplerpc.consumer.ConsumerConfiguration
